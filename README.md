@@ -11,4 +11,4 @@ All of the designs are done by me and MS Paint and [photoshop](https://www.photo
 ## 2. Images
 
 ### a. Connect
-[![An old rock in the desert](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png)
+[![An old rock in the desert](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png Representing)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png)

@@ -22,5 +22,5 @@ All of the designs are done by me and MS Paint and [photoshop](https://www.photo
 ### d. Progression
 [![Progression](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Progression.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Progression.png)
 
-### e. 
-[![Smiling Balloon](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Smiling_Balloon.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Smiling_Balloon.png)
+### e. Forefront Smiling Balloon
+[![Forefront Smiling Balloon](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Smiling_Balloon.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Smiling_Balloon.png)

@@ -11,4 +11,16 @@ All of the designs are done by me and MS Paint and [photoshop](https://www.photo
 ## 2. Images
 
 ### a. Connect
-[![An old rock in the desert](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png Representing)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png)
+[![Connect](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Connect.png)
+
+### b. Forefront
+[![Forefront](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Forefront.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Forefront.png)
+
+### c. Forefront & Gitcoin Gems
+[![Forefront & Gitcoin Gems](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Forefront_Gitcoin_Gems.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Forefront_Gitcoin_Gems.png)
+
+### d. Progression
+[![Progression](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Progression.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Progression.png)
+
+### e. 
+[![Smiling Balloon](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Smiling_Balloon.png)](https://raw.githubusercontent.com/Liquid-Glass/Forefront_CC_2/main/Smiling_Balloon.png)
